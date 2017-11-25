@@ -1,0 +1,18 @@
+{
+  "name": "number-type-info",
+  "main": "number-type-info.js",
+  "license": "MIT",
+  "dependencies": {
+    "lang-mini": "^0.0.1"
+  },
+  "engines": {
+    "node": ">=8.5.0"
+  },
+  "description": "Finds out in more detail what type of numbers are within a set of numbers, or an individual number",
+  "author": "James Vickers <james@metabench.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metabench/number-type-info.git"
+  },
+  "version": "0.0.1"
+}
